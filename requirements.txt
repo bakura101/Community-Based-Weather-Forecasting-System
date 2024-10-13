@@ -1,8 +1,8 @@
 streamlit
 pandas
-numpy
 matplotlib
-scikit-learn==1.2.1
 Pillow
 plotly
 plost
+numpy==1.21.0
+scikit-learn==0.24.2
