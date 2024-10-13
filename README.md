@@ -1,7 +1,3 @@
-Here’s a `README.md` file for your project:
-
----
-
 # 🌦️ Community-Based Weather Forecasting System
 
 This project is a **community-based weather forecasting system** built using **Streamlit** and **Machine Learning**. It allows users to input weather parameters such as precipitation, temperature, and wind speed to predict the weather conditions using a trained machine learning model. The project is focused on a case study in Geidam Local Government.
